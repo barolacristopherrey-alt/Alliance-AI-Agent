@@ -1,0 +1,10 @@
+{
+  "name": "alliance-ai-agent-portal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Alliance AI Agent Portal — standalone web deployment (static frontend + Vercel serverless Claude proxy + Supabase auth/persistence).",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
