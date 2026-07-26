@@ -1,0 +1,9 @@
+{
+  "buildCommand": null,
+  "outputDirectory": "public",
+  "functions": {
+    "api/generate.js": {
+      "maxDuration": 60
+    }
+  }
+}
